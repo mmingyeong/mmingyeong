@@ -50,35 +50,57 @@
 
 ---
 
-## 🔭 Selected Themes in My Repositories
+## 📈 Activity
 
-- **AI-Driven Cosmology**  
-  - 3D voxel-to-voxel models for **dark-matter and initial-condition reconstruction**  
-  - Evaluation pipelines: power spectrum, 2PCF, PDF, structural metrics
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mmingyeong&theme=default&hide_border=true" />
+</p>
 
-- **Instrument Control Software**  
-  - K-SPEC **GFA / ADC** control modules (guiding, focusing, dispersion correction)  
-  - Emphasis on **robust architecture**, logging, and observatory-grade reliability
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mmingyeong&theme=github-light" />
+</p>
 
-- **HPC & Data Pipelines**  
-  - Large-scale HDF5 handling, NUFFT / KDE density mapping  
-  - PBS / SLURM job scripts, profiling, and parallelization
+
+---
+
+![visitors](https://komarev.com/ghpvc/?username=mmingyeong&color=blue)
 
 ---
 
 ## 📫 Contact & Links
 
 <p>
+  <!-- Email -->
   <a href="mailto:mmingyeong@kasi.re.kr">
     <img src="https://img.shields.io/badge/Email-mmingyeong%40kasi.re.kr-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
+
+  <!-- KASI official -->
   <a href="https://www.kasi.re.kr/">
     <img src="https://img.shields.io/badge/KASI-Official%20Site-0C4DA2?style=flat-square"/>
   </a>
+
+  <!-- Cosmology Team -->
   <a href="https://cosmology.kasi.re.kr/index.php">
     <img src="https://img.shields.io/badge/KASI%20Cosmology%20Group-Research%20Team-4B0082?style=flat-square"/>
   </a>
+
+  <!-- Google Scholar -->
+  <a href="https://scholar.google.co.kr/citations?user=ngVTXZAAAAAJ&hl=ko">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white"/>
+  </a>
+
+  <!-- ORCID -->
+  <a href="https://orcid.org/0009-0005-9012-6006">
+    <img src="https://img.shields.io/badge/ORCID-0009--0005--9012--6006-A6CE39?style=flat-square&logo=orcid&logoColor=white"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/mingyeong-yang-696083248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
+
 
 <!--
 **mmingyeong/mmingyeong** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
