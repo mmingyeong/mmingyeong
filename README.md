@@ -61,9 +61,6 @@
 </p>
 
 
----
-
-![visitors](https://komarev.com/ghpvc/?username=mmingyeong&color=blue)
 
 ---
 
