@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 
 ## 🛠️ Tech Stacks
-<img src="https://img.shields.io/badge/공식_명칭-공식_색상_코드?style=flat-square&logo=공식_명칭&logoColor=white"/>
 <img src="https://img.shields.io/badge/#F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/#181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/#FCC624?style=flat-square&logo=linux&logoColor=white"/>
@@ -15,7 +14,6 @@
 <img src="https://img.shields.io/badge/#4A154B?style=flat-square&logo=slack&logoColor=white"/>
 
 ## 🛠️ Top Languages
-// Top Languages 코드
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmingyeong)](https://github.com/anuraghazra/github-readme-stats)
 
  
