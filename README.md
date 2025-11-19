@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Look%20how%20far%20we've%20come%20%F0%9F%8C%9C&fontAlign=50&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Look%20how%20far%20we've%20come%20✨&fontSize=40&fontAlign=50&fontAlignY=40)
+
 
 ---
 
