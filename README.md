@@ -3,15 +3,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 
 ## 🛠️ Tech Stacks
-<img src="https://img.shields.io/badge/#F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/#181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/#FCC624?style=flat-square&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/#0B100F?style=flat-square&logo=windsurf&logoColor=white"/>
-<img src="https://img.shields.io/badge/#3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/#EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/#F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/#000000?style=flat-square&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/#4A154B?style=flat-square&logo=slack&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windsurf-0B100F?style=flat-square&logo=windsurf&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+
 
 ## 🛠️ Top Languages
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmingyeong)](https://github.com/anuraghazra/github-readme-stats)
