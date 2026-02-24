@@ -43,14 +43,6 @@
 
 ---
 
-## 📊 GitHub Overview
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmingyeong&layout=compact&hide_border=true&theme=default"/>
-</p>
-
----
-
 ## 📈 Activity
 
 <p>
