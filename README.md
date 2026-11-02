@@ -1,98 +1,100 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Look%20how%20far%20we've%20come%20✨&fontSize=40&fontAlign=50&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mingyeong%20Yang&fontSize=45&fontAlign=50&fontAlignY=40)
 
+### Ph.D. Student in Astronomy | Cosmology · Large-Scale Structure · AI
 
 ---
 
 ## 🧑‍🔬 About Me
 
-- Hi, I’m **Mingyeong Yang (양민경)** — PhD student in Astronomy at **UST · KASI**.  
-- I work on **cosmology with AI**, focusing on  
-  - reconstructing **dark matter** and **initial conditions** from large-scale structure,  
-  - applying **deep learning** (U-Net, ViT, FNO, diffusion, cGAN, etc.) to cosmological fields.  
-- I also develop **control software for astronomical instruments**, including  
-  - the **GFA & ADC control systems** for the **K-SPEC / A-SPEC survey**.  
-- I enjoy bridging **theory, simulations, and instrumentation** with clean, reproducible code.
+Hi! I'm **Mingyeong Yang (양민경)**, a third-year Ph.D. student in Astronomy at the **University of Science and Technology (UST)** and the **Korea Astronomy and Space Science Institute (KASI)**.
+
+I am a member of the [KASI Cosmology Research Group](https://cosmology.kasi.re.kr/index.php), supervised by **Prof. Sungwook E. Hong**.
+
+My research focuses on understanding the large-scale structure of the Universe through **cosmological simulations, observational data, and artificial intelligence**.
+
+In particular, I develop deep learning methods to reconstruct the **three-dimensional dark matter density and gravitational potential fields** from galaxy distributions and line-of-sight peculiar velocities.
+
+I am also interested in applying these methods to observational surveys to investigate the dark matter distribution and dynamics of the local Universe.
+
+Beyond cosmology, I develop **control software for astronomical instrumentation**, including the GFA and ADC control systems for the K-SPEC / A-SPEC project.
+
+---
+
+## 🌌 Current Research
+
+### 1. Deep Learning for Dark Matter Reconstruction (GAL2DM)
+
+**Benchmarking Deep Learning Architectures for Dark Matter Reconstruction in the Local Universe**
+
+- Reconstructing 3D dark matter density and gravitational potential fields from galaxy distributions and peculiar velocities.
+- Comparing deep learning architectures, including **V-Net, Vision Transformers, Variational Diffusion Models, and Flow Matching Models**.
+- Evaluating voxel-level reconstruction accuracy and the recovery of cosmological statistics.
+- Developing reconstruction methods using **A-SIM-based CF4-like mock catalogs**, with planned applications to real CF4 observations.
+
+**Future directions:** Applying reconstruction methods to upcoming peculiar velocity surveys and exploring their potential for mapping dark matter structures in the local Universe.
+
+### 2. Dark Matter Models and Cosmological Simulations
+
+- Investigating alternative dark matter scenarios using cosmological hydrodynamical simulations.
+- Constructing mock galaxy catalogs from the **AIDA-TNG simulations**.
+- Exploring how different dark matter models affect the reconstruction of cosmic structures.
+
+### 3. Astronomical Instrumentation and Control Software
+
+- Developing GFA (Guide, Focus, and Alignment) and ADC (Atmospheric Dispersion Corrector) control systems.
+- Supporting telescope operations, pointing corrections, and observation automation for the K-SPEC / A-SPEC project.
 
 ---
 
 ## 🧪 Research Interests
 
-- Large-scale structure & cosmological parameter inference  
-- AI-based reconstruction of the early Universe (DM → IC, Galaxies → DM)  
-- Probabilistic modeling & uncertainty quantification (Bayesian / generative models)  
-- Telescope / spectrograph control software and observation automation  
+- **Cosmology & Large-Scale Structure**
+  - Dark matter distribution and cosmic web
+  - Galaxy clustering and peculiar velocities
+  - Cosmic flows and gravitational potential reconstruction
+
+- **AI for Cosmology**
+  - Deep learning for cosmological inverse problems
+  - Generative models (Diffusion Models, Flow Matching)
+  - Statistical characterization of reconstructed cosmological fields
+
+- **Cosmological Simulations & Observations**
+  - Galaxy–dark matter connections
+  - Mock galaxy catalogs and observational systematics
+  - Applications to large-scale structure and peculiar velocity surveys
+
+- **Astronomical Instrumentation**
+  - Telescope and spectrograph control systems
+  - Observation automation
 
 ---
 
 ## 📫 Contact & Links
 
-<p>
-  <!-- Email -->
-  <a href="mailto:mmingyeong@kasi.re.kr">
-    <img src="https://img.shields.io/badge/Email-mmingyeong%40kasi.re.kr-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-
-  <!-- KASI official -->
-  <a href="https://www.kasi.re.kr/">
-    <img src="https://img.shields.io/badge/KASI-Official%20Site-0C4DA2?style=flat-square"/>
-  </a>
-
-  <!-- Cosmology Team -->
-  <a href="https://cosmology.kasi.re.kr/index.php">
-    <img src="https://img.shields.io/badge/KASI%20Cosmology%20Group-Research%20Team-4B0082?style=flat-square"/>
-  </a>
-
-  <!-- Google Scholar -->
-  <a href="https://scholar.google.co.kr/citations?user=ngVTXZAAAAAJ&hl=ko">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white"/>
-  </a>
-
-  <!-- ORCID -->
-  <a href="https://orcid.org/0009-0005-9012-6006">
-    <img src="https://img.shields.io/badge/ORCID-0009--0005--9012--6006-A6CE39?style=flat-square&logo=orcid&logoColor=white"/>
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/mingyeong-yang-696083248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-
-<!--
-**mmingyeong/mmingyeong** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
---> 
-
+- **Email:** [mmingyeong@kasi.re.kr](mailto:mmingyeong@kasi.re.kr)
+- **Research Group:** [KASI Cosmology Research Group](https://cosmology.kasi.re.kr/index.php)
+- **Google Scholar:** [Mingyeong Yang](https://scholar.google.co.kr/citations?user=ngVTXZAAAAAJ&hl=ko)
+- **ORCID:** [0009-0005-9012-6006](https://orcid.org/0009-0005-9012-6006)
+- **LinkedIn:** [Mingyeong Yang](https://www.linkedin.com/in/mingyeong-yang-696083248)
 
 ---
 
-## 🛠️ Tech Stacks
+## 🛠️ Technical Skills
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windsurf-0B100F?style=flat-square&logo=windsurf&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
-</p>
+**Scientific Computing:** Python · NumPy · SciPy · PyTorch · Jupyter
+
+**Machine Learning:** CNN · Vision Transformer · Diffusion Models · Flow Matching
+
+**Computational Research:** Linux · Bash · Git · Slurm · GPU Computing
+
+**Research Applications:** Cosmological Simulations · 3D Field Reconstruction · Astronomical Data Analysis
 
 ---
 
-## 📈 Activity
+## 📈 GitHub Activity
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mmingyeong&theme=default&hide_border=true" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mmingyeong&theme=default&hide_border=true)
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mmingyeong&theme=github-light" />
-</p>
-
-
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=mmingyeong&theme=github-light)
