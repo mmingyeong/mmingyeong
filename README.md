@@ -43,7 +43,7 @@ Beyond cosmology, I develop **control software for astronomical instrumentation*
 
 ### 3. Astronomical Instrumentation and Control Software
 
-- Developing GFA (Guide, Focus, and Alignment) and ADC (Atmospheric Dispersion Corrector) control systems.
+- Developing GFA (Guide, Focus, and Acquisition) and ADC (Atmospheric Dispersion Corrector) control systems.
 - Supporting telescope operations, pointing corrections, and observation automation for the K-SPEC / A-SPEC project.
 
 ---
